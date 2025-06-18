@@ -14,7 +14,7 @@ Precise segmentation of brain tumors in volumetric MRI is challenging due to sig
 - **Dilated Residual Attention Pyramid (DRAP):** Multiscale residual attention and channel recalibration.
 - **RefineUp Module:** Decoder-side refinement with attention-guided upsampling.
 
-A multi-objective evolutionary neural architecture search (NAS) framework—with a self-adaptive mutation strategy—jointly optimizes both segmentation quality (Dice similarity coefficient) and model efficiency (parameters, GFLOPs). EvoBrainNet outperforms nine state-of-the-art methods on multiple benchmarks and generalizes well across unseen datasets.
+A multi-objective evolutionary neural architecture search (NAS) framework with a self-adaptive mutation strategy jointly optimizes both segmentation quality (Dice similarity coefficient) and model efficiency (parameters, GFLOPs). EvoBrainNet outperforms nine state-of-the-art methods on multiple benchmarks and generalizes well across unseen datasets.
 
 ---
 
